@@ -6,15 +6,9 @@
 
 - - -
 
-## Objectives
+# GitHub
 
-- Introduce GitHub
-- Demonstrate Using GitHub
-- Summarise the Advantages of GitHub
-
-#  GitHub
-
-![](images/githubLogo.png)
+![](images/Octocat.jpg)
 
 _Image Source: [GitHub](https://github.com)_
 
@@ -26,28 +20,20 @@ Hosts _git_ repositories
 
 ## What is git?
 
-Distributed (software) _version control_ - people work locally, then push and pull changes to and from GitHub.
+Distributed (software) _version control_ - people work locally, then push and pull changes to and from GitHub
 
 ## What is Version Control?
 
-+ Which changes were made?
-+ Who made the changes?
-+ When were the changes made?
-+ Why were changes needed?
-
-## e.g
-
-![](images/branches.png)
-
-_Image Source: [git-scm.com](https://git-scm.com/about)_
++ Which _changes_ were made?
++ Who made the _changes_?
++ When were the _changes_ made?
++ Why were _changes_ needed?
 
 ## Goals
 
-1. Change management
+1. Manage _change_ (versioning)
 2. Collaboration
-3. Conflict control (while collaborating)
-4. Archives
-. Version management
+4. Archive
 
 # GitHub Software
 
@@ -57,9 +43,9 @@ _Image Source: [https://git-scm.com/](https://git-scm.com/downloads/guis)_
 
 - - -
 
-## Install Git
+## Install git
 
-Default on MacOS and Linux, but _I think_ you need to install on Windows? Download from https://git-scm.com/downloads
+_git_ is installed by default on MacOS and Linux, but _I think_ you need to install it on Windows? Download from [https://git-scm.com/downloads](https://git-scm.com/downloads)
 
 ## GUIs
 
@@ -81,21 +67,25 @@ Default on MacOS and Linux, but _I think_ you need to install on Windows? Downlo
 
 Encompasses the entire collection of files and folders associated with a project, along with each file’s revision history
 
-## The Very First Thing You Should Do
+## Branching
 
-_Pull!_
+![](images/gitFlow.png)
+
+_Image Source: [medium](images/https://medium.com/devsondevs/gitflow-workflow-continuous-integration-continuous-delivery-7f4643abb64f)_
+
+##
+
+Before you do _ANYTHING_ else:
+
+**Pull**
+
+(or know why not)
 
 ## Adding Files
 
 1. Stage
 2. Commit
 3. Push
-
-## Branching
-
-![](images/gitFlow.png)
-
-_Image Source: [medium](images/https://medium.com/devsondevs/gitflow-workflow-continuous-integration-continuous-delivery-7f4643abb64f)_
 
 ## Pull Requests
 
