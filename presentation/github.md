@@ -97,6 +97,20 @@ Lets you tell others about changes you've pushed to a branch in a repository on 
 
 _Image Source: [stackoverflow](https://stackoverflow.com/questions/55730292/how-git-maintains-commits-from-deleted-branch)_
 
+# GitHub+
+
+![](images/extras.jpg)
+
+- - -
+
+## Project Management
+
+![](images/githubProjects.png)
+
+## Wiki
+
+![](images/githubWiki.png)
+
 # Summary
 
 - - -
