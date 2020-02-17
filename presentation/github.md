@@ -22,11 +22,11 @@ _Image Source: [GitHub](https://github.com)_
 
 ## What is GitHub?
 
-(Software development) using _Git_
+Hosts _git_ repositories
 
-## What is Git?
+## What is git?
 
-Distributed _version control_ - people work locally, then push and pull changes to and from GitHub.
+Distributed (software) _version control_ - people work locally, then push and pull changes to and from GitHub.
 
 ## What is Version Control?
 
@@ -99,7 +99,7 @@ _Image Source: [medium](images/https://medium.com/devsondevs/gitflow-workflow-co
 
 ## Pull Requests
 
-Let you tell others about changes you've pushed to a branch in a repository on GitHub.
+Lets you tell others about changes you've pushed to a branch in a repository on GitHub
 
 ## Merging
 
@@ -108,12 +108,6 @@ Let you tell others about changes you've pushed to a branch in a repository on G
 _Image Source: [stackoverflow](https://stackoverflow.com/questions/55730292/how-git-maintains-commits-from-deleted-branch)_
 
 # Summary
-
-> 1. Criticisms of the excessive energy use of [Bitcoin](https://bitcoin.org/en/)
-> 2. I argued it was a price worth paying because blockchains challenge the hierarchies of Capitalism
-> 3. [Enervator](https://github.com/glowkeeper/Enervator) incentivises energy efficiency
-> 4. There are (significant) barriers to uptake
-> 5. ...but are they insurmountable?
 
 - - -
 
