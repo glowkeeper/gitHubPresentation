@@ -77,7 +77,7 @@ Default on MacOS and Linux, but _I think_ you need to install on Windows? Downlo
 
 - - -
 
-## Repositories
+## Repository
 
 Encompasses the entire collection of files and folders associated with a project, along with each file’s revision history
 
@@ -96,6 +96,10 @@ _Pull!_
 ![](images/gitFlow.png)
 
 _Image Source: [medium](images/https://medium.com/devsondevs/gitflow-workflow-continuous-integration-continuous-delivery-7f4643abb64f)_
+
+## Pull Requests
+
+Let you tell others about changes you've pushed to a branch in a repository on GitHub.
 
 ## Merging
 
