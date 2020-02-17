@@ -22,25 +22,54 @@ _Image Source: [GitHub](https://github.com)_
 
 ## What is GitHub?
 
-Software development version control using Git
+(Software development) using _Git_
 
-## Why Version Control?
+## What is Git?
 
-+ Cataloging revisions
-  + Additions, Deletions, Moves, Changes (revisions)
+Distributed _version control_ - people work locally, then push and pull changes to and from GitHub.
+
+## What is Version Control?
+
++ Which changes were made?
++ Who made the changes?
++ When were the changes made?
++ Why were changes needed?
+
+## e.g
+
+![](images/branches.png)
+
+_Image Source: [git-scm.com](https://git-scm.com/about)_
 
 ## Goals
 
-1. Allow collaboration
-2. Avoid conflicts (while collaborating)
-3. Archive everything
-4. Version management
+1. Change management
+2. Collaboration
+3. Conflict control (while collaborating)
+4. Archives
+. Version management
 
-## Version Control in Action
+# GitHub Software
 
-![](images/A-Brief-Timeline-of-Version-Control-Systems-03-770.png)
+![](images/gitSoftware.png)
 
-_Image Source: [Russell Snyder](https://webinerds.com/version-control-systems-keep-your-code-in-order/)_
+_Image Source: [https://git-scm.com/](https://git-scm.com/downloads/guis)_
+
+- - -
+
+## Install Git
+
+Default on MacOS and Linux, but _I think_ you need to install on Windows? Download from https://git-scm.com/downloads
+
+## GUIs
+
+![](images/mySmartGit.png)
+
+[https://git-scm.com/downloads/guis](https://git-scm.com/downloads/guis)
+
+## Atom
+
+![](images/atomGitHub.png)
 
 # Using GitHub
 
@@ -48,8 +77,31 @@ _Image Source: [Russell Snyder](https://webinerds.com/version-control-systems-ke
 
 - - -
 
+## Repositories
 
+Encompasses the entire collection of files and folders associated with a project, along with each file’s revision history
 
+## The Very First Thing You Should Do
+
+_Pull!_
+
+## Adding Files
+
+1. Stage
+2. Commit
+3. Push
+
+## Branching
+
+![](images/A-Brief-Timeline-of-Version-Control-Systems-03-770.png)
+
+_Image Source: [Russell Snyder](https://webinerds.com/version-control-systems-keep-your-code-in-order/)_
+
+## Merging
+
+![](images/gitMerge.png)
+
+_Image Source: [stackoverflow](https://stackoverflow.com/questions/55730292/how-git-maintains-commits-from-deleted-branch)_
 
 # Summary
 
@@ -65,6 +117,10 @@ _Image Source: [Russell Snyder](https://webinerds.com/version-control-systems-ke
 
 1. [This presentation](https://tinyurl.com/y5f59m85): https://tinyurl.com/y5f59m85
 2. [git](https://git-scm.com/): https://git-scm.com/
+3. [git Handbook](https://guides.github.com/introduction/git-handbook/)
+4. [GitHub](https://github.com/): https://github.com/
+5. [GitHub help](https://help.github.com/en): https://help.github.com/en
+6. [GitHub Learning Lab](https://lab.github.com/)
 
 - - -
 
