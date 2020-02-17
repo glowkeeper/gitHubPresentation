@@ -93,9 +93,9 @@ _Pull!_
 
 ## Branching
 
-![](images/A-Brief-Timeline-of-Version-Control-Systems-03-770.png)
+![](images/gitFlow.png)
 
-_Image Source: [Russell Snyder](https://webinerds.com/version-control-systems-keep-your-code-in-order/)_
+_Image Source: [medium](images/https://medium.com/devsondevs/gitflow-workflow-continuous-integration-continuous-delivery-7f4643abb64f)_
 
 ## Merging
 
