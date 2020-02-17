@@ -103,7 +103,7 @@ _Image Source: [stackoverflow](https://stackoverflow.com/questions/55730292/how-
 
 # Links
 
-1. [This presentation](https://tinyurl.com/y5f59m85): https://tinyurl.com/y5f59m85
+1. [This presentation](https://github.com/glowkeeper/gitHubPresentation): https://github.com/glowkeeper/gitHubPresentation
 2. [git](https://git-scm.com/): https://git-scm.com/
 3. [git Handbook](https://guides.github.com/introduction/git-handbook/)
 4. [GitHub](https://github.com/): https://github.com/
