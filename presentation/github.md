@@ -35,7 +35,7 @@ Distributed (source code) _version control_ - people work locally, then push and
 2. Collaboration
 4. Archive
 
-# GitHub Software
+# Git Software
 
 ![](images/gitSoftware.png)
 
@@ -43,9 +43,9 @@ _Image Source: [https://git-scm.com/](https://git-scm.com/downloads/guis)_
 
 - - -
 
-## Install git
+## git
 
-_git_ is installed by default on MacOS and Linux, but _I think_ you need to install it on Windows? Download from [https://git-scm.com/downloads](https://git-scm.com/downloads)
+Installed by default on MacOS and Linux, but on Windows, _I think_ you need to install `git`? Download from [https://git-scm.com/downloads](https://git-scm.com/downloads)
 
 ## GUIs
 
@@ -77,19 +77,19 @@ _Image Source: [medium](images/https://medium.com/devsondevs/gitflow-workflow-co
 
 Before you do _ANYTHING_ else:
 
-**Pull**
+_Pull_
 
-(or know why not)
+(or know why not to **Pull**)
 
-## Adding Files
+## Adding Files (to GitHub)
 
 1. Stage
 2. Commit
-3. Push
+3. **Push**
 
 ## Pull Requests
 
-Lets you tell others about changes you've pushed to a branch in a repository on GitHub
+Tell others about changes you've pushed to a branch in a repository on GitHub
 
 ## Merging
 
