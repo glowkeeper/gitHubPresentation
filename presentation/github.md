@@ -20,7 +20,7 @@ Hosts _git_ repositories
 
 ## What is git?
 
-Distributed (software) _version control_ - people work locally, then push and pull changes to and from GitHub
+Distributed (source code) _version control_ - people work locally, then push and pull changes to and from GitHub
 
 ## What is Version Control?
 
