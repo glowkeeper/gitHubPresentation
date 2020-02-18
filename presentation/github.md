@@ -4,6 +4,8 @@
 
 (Dr) Steven Huckle
 
+s.huckle@sussex.ac.uk
+
 - - -
 
 # GitHub
@@ -73,13 +75,25 @@ Encompasses the entire collection of files and folders associated with a project
 
 _Image Source: [medium](images/https://medium.com/devsondevs/gitflow-workflow-continuous-integration-continuous-delivery-7f4643abb64f)_
 
-##
+## Working on Open Source Projects
 
-Before you do absolutely _ANYTHING_ else:
+1. Fork the GitHub repository and clone it to local machine
+2. Check out master branch
+3. Create topic branch
+4. Write patches
+5. Stage and Commit patches
+6. Push the new branch back up to the GitHub fork
+7. Send a Pull Request
 
-**Pull**
+## Keeping Your Fork in Sync
 
-(or know why not to **Pull**)
+```
+git remote add upstream https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git
+```
+e.g:
+```
+git remote add upstream https://github.com/glowkeeper/gitHubPresentation.git
+```
 
 ## Adding Files (to GitHub)
 
@@ -97,7 +111,15 @@ Tell others about changes you've pushed to a branch in a repository on GitHub
 
 _Image Source: [stackoverflow](https://stackoverflow.com/questions/55730292/how-git-maintains-commits-from-deleted-branch)_
 
-# GitHub+
+## A Note from the Wise
+
+Before you do _ANYTHING_ else:
+
+**Pull**
+
+(or know why not to **Pull**)
+
+#
 
 ![](images/extras.jpg)
 
@@ -111,22 +133,35 @@ _Image Source: [stackoverflow](https://stackoverflow.com/questions/55730292/how-
 
 ![](images/githubWiki.png)
 
+## GitHub Actions
+
+Continuous integration
+
 # Summary
+
++ GitHub, `git` and version control
++ Repositories
+  + Forking, Pull requests
+  + Branching (gitFlow), staging, commiting, merging
++ GitHub extras
+  + Project management, wiki, project integration
 
 - - -
 
 # Links
 
-1. [This presentation](https://github.com/glowkeeper/gitHubPresentation): https://github.com/glowkeeper/gitHubPresentation
-2. [git](https://git-scm.com/): https://git-scm.com/
-3. [git Handbook](https://guides.github.com/introduction/git-handbook/)
-4. [GitHub](https://github.com/): https://github.com/
-5. [GitHub help](https://help.github.com/en): https://help.github.com/en
-6. [GitHub Learning Lab](https://lab.github.com/)
++ [This presentation](https://github.com/glowkeeper/gitHubPresentation): https://github.com/glowkeeper/gitHubPresentation
++ [git](https://git-scm.com/): https://git-scm.com/
++ [git Handbook](https://guides.github.com/introduction/git-handbook/)
++ [GitHub](https://github.com/): https://github.com/
++ [GitHub help](https://help.github.com/en): https://help.github.com/en
++ [GitHub Learning Lab](https://lab.github.com/)
 
 - - -
 
 # Thank You
+
+(Dr) Steven Huckle
 
 w: [glowkeeper.github.io](https://glowkeeper.github.io/)
 
