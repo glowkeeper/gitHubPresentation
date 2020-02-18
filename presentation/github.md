@@ -75,9 +75,9 @@ _Image Source: [medium](images/https://medium.com/devsondevs/gitflow-workflow-co
 
 ##
 
-Before you do _ANYTHING_ else:
+Before you do absolutely _ANYTHING_ else:
 
-_Pull_
+**Pull**
 
 (or know why not to **Pull**)
 
