@@ -83,7 +83,7 @@ _Image Source: [medium](images/https://medium.com/devsondevs/gitflow-workflow-co
 4. Write patches
 5. Stage and Commit patches
 6. Push the new branch back up to the GitHub fork
-7. Send a Pull Request
+7. Send a **Pull Request**
 
 ## Keeping Your Fork in Sync
 
@@ -101,19 +101,15 @@ git remote add upstream https://github.com/glowkeeper/gitHubPresentation.git
 2. Commit
 3. **Push**
 
-## Pull Requests
-
-Tell others about changes you've pushed to a branch in a repository on GitHub
-
 ## Merging
 
 ![](images/gitMerge.png)
 
 _Image Source: [stackoverflow](https://stackoverflow.com/questions/55730292/how-git-maintains-commits-from-deleted-branch)_
 
-## A Note from the Wise
+## A Word to the Wise
 
-Before you do _ANYTHING_ else:
+Before you do _ABSOLUTELY ANYTHING_ else:
 
 **Pull**
 
