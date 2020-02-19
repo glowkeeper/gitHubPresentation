@@ -1,6 +1,6 @@
 #  An Introduction to GitHub
 
-![](images/me.jpg)
+![](images/karlMarx.jpg)
 
 (Dr) Steven Huckle
 
