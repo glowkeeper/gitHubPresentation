@@ -1,6 +1,6 @@
 #  An Introduction to GitHub
 
-![](images/Octocat.jpg)
+![](images/guitar.jpg)
 
 (Dr) Steven Huckle
 
