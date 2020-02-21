@@ -1,18 +1,10 @@
 #  An Introduction to GitHub
 
-![](images/karlMarx.jpg)
+![](images/Octocat.jpg)
 
 (Dr) Steven Huckle
 
 s.huckle@sussex.ac.uk
-
-- - -
-
-# GitHub
-
-![](images/Octocat.jpg)
-
-_Image Source: [GitHub](https://github.com)_
 
 - - -
 
@@ -22,7 +14,7 @@ Hosts _git_ repositories
 
 ## What is git?
 
-Distributed (source code) _version control_ - people work locally, then push and pull changes to and from a central server
+Distributed (source code) _version control_ - people work locally, then push and pull changes to and from a central server (GitHub)
 
 ## What is Version Control?
 
